@@ -1,0 +1,11 @@
+C:\Users\entra21\source\repos\WFparte02\WFparte02\bin\Debug\WFparte02.exe.config
+C:\Users\entra21\source\repos\WFparte02\WFparte02\bin\Debug\WFparte02.exe
+C:\Users\entra21\source\repos\WFparte02\WFparte02\bin\Debug\WFparte02.pdb
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.csprojAssemblyReference.cache
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.Form1.resources
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.Lista.resources
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.Properties.Resources.resources
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.csproj.GenerateResource.cache
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.csproj.CoreCompileInputs.cache
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.exe
+C:\Users\entra21\source\repos\WFparte02\WFparte02\obj\Debug\WFparte02.pdb
